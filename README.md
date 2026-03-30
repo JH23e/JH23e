@@ -74,7 +74,7 @@
 <br/>
 
 ## 📊 My GitHub Stats
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JH23e)](https://github.com/JH23e/github-readme-stats)
+[![JH23e GitHub stats](https://github-readme-stats.vercel.app/api?username=JH23e)](https://github.com/anuraghazra/github-readme-stats)
 
 <br/>
 
