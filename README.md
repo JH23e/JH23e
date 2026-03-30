@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=00d2ff&height=200&section=header&text=jh23e%20|%20AI%20Engineer&fontSize=60&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/render?type=soft&color=auto&height=200&section=header&text=jh23e%20|%20AI%20Engineer&fontSize=60&animation=fadeIn" />
 </p>
 
 <div align="center">
@@ -77,8 +77,8 @@
 
 ## 📊 My GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jh23e&show_icons=true&theme=tokyonight" alt="jh23e's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jh23e&layout=compact&theme=tokyonight" alt="jh23e's Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=jh23e&show_icons=true&theme=tokyonight&count_private=true" alt="jh23e's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jh23e&layout=compact&theme=tokyonight&hide_langs_below=1" alt="jh23e's Top Languages" />
 </p>
 
 <br/>
