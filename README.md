@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=soft&color=auto&height=200&section=header&text=jh23e%20|%20AI%20Engineer&fontSize=60&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/render?type=soft&color=auto&height=200&section=header&text=JH23e%20|%20AI%20Engineer&fontSize=60&animation=fadeIn" />
 </p>
 
 <div align="center">
@@ -77,14 +77,14 @@
 
 ## 📊 My GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jh23e&show_icons=true&theme=tokyonight&count_private=true" alt="jh23e's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jh23e&layout=compact&theme=tokyonight&hide_langs_below=1" alt="jh23e's Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=JH23e&show_icons=true&theme=tokyonight&count_private=true" alt="JH23e's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JH23e&layout=compact&theme=tokyonight&hide_langs_below=1" alt="JH23e's Top Languages" />
 </p>
 
 <br/>
 
 ## 📫 Contact
-* **GitHub**: [github.com/jh23e](https://github.com/jh23e)
+* **GitHub**: [github.com/JH23e](https://github.com/JH23e)
 * **LinkedIn**: [https://linkedin.com](https://www.linkedin.com/in/%EC%A7%80%ED%98%B8-%EA%B9%80-71a775395/)
 * **Email**: bear356se@gmail.com
 
