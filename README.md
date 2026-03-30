@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=00d2ff&height=200&section=header&text=AI%20Engineer%20Aspirant&fontSize=70&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/render?type=waving&color=00d2ff&height=200&section=header&text=jh23e%20|%20AI%20Engineer&fontSize=60&animation=fadeIn" />
 </p>
 
 <div align="center">
-  <h3>🤖 데이터를 가치 있는 지능형 서비스로 전환하는 AI 엔지니어 지망생 bear3입니다.</h3>
+  <h3>🤖 데이터를 가치 있는 지능형 서비스로 전환하는 AI 엔지니어 지망생입니다.</h3>
   <p>단순한 모델 학습을 넘어, 실서비스에 적용 가능한 <b>End-to-End AI 시스템</b> 구축을 지향합니다.</p>
 </div>
 
@@ -11,23 +11,31 @@
 
 ## 🛠 Tech Stack
 
-### 🧠 Artificial Intelligence & Data
+### 💻 Language & Framework
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white">
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white">
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white">
-  <img src="https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white">
-  <img src="https://img.shields.io/badge/LLM_Prompt_Eng-FFD700?style=flat-square&logo=openai&logoColor=black">
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white">
+  <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black">
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white">
 </p>
 
-### 🏗 Data Engineering & Backend
+### 🗄 Database & Search Engine
 <p>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white">
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white">
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white">
+  <img src="https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white">
+  <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&logo=sqlalchemy&logoColor=white">
+</p>
+
+### ☁ Infrastructure & DevOps
+<p>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white">
   <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white">
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white">
+  <img src="https://img.shields.io/badge/Sentry-362D59?style=flat-square&logo=sentry&logoColor=white">
 </p>
 
 <br/>
@@ -69,15 +77,16 @@
 
 ## 📊 My GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bear3&show_icons=true&theme=tokyonight" alt="bear3's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bear3&layout=compact&theme=tokyonight" alt="bear3's Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=jh23e&show_icons=true&theme=tokyonight" alt="jh23e's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jh23e&layout=compact&theme=tokyonight" alt="jh23e's Top Languages" />
 </p>
 
 <br/>
 
 ## 📫 Contact
-* **Email**: bear356se@gmail.com
+* **GitHub**: [github.com/jh23e](https://github.com/jh23e)
 * **LinkedIn**: [https://linkedin.com](https://www.linkedin.com/in/%EC%A7%80%ED%98%B8-%EA%B9%80-71a775395/)
+* **Email**: bear356se@gmail.com
 
 ---
 <p align="center">
