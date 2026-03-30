@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=soft&color=auto&height=200&section=header&text=JH23e%20|%20AI%20Engineer&fontSize=60&animation=fadeIn" />
-</p>
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=JH23e%20render&fontSize=90)
 
 <div align="center">
   <h3>🤖 데이터를 가치 있는 지능형 서비스로 전환하는 AI 엔지니어 지망생입니다.</h3>
@@ -76,10 +74,7 @@
 <br/>
 
 ## 📊 My GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JH23e&show_icons=true&theme=tokyonight&count_private=true" alt="JH23e's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JH23e&layout=compact&theme=tokyonight&hide_langs_below=1" alt="JH23e's Top Languages" />
-</p>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JH23e)](https://github.com/JH23e/github-readme-stats)
 
 <br/>
 
