@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&section=header&text=JH23e%20&fontSize=90&animation=twinkling&textBg=true&theme=radical)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&section=header&text=JH23e%20&fontSize=90&animation=twinkling&theme=radical)
 
 <div align="center">
   <h3>🤖 데이터를 가치 있는 지능형 서비스로 전환하는 AI 엔지니어 지망생입니다.</h3>
