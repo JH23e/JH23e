@@ -1,7 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=JIHO%20&fontSize=90)
 
----
-
 <br/>
 
 <a href="https://skillicons.dev">
