@@ -2,10 +2,12 @@
 
 <br/>
 
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=py,fastapi,ts,nodejs,postgres&theme=light" />
-</a>
-<br>
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=docker,git,github&theme=light" />
-</a>
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,fastapi,ts,nodejs,postgres&theme=light" />
+  </a>
+  <br>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=docker,git,github&theme=light" />
+  </a>
+</div>
