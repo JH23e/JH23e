@@ -11,9 +11,9 @@
 <br/>
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=py,fastapi,ts,nodejs,express,postgres,prisma,elasticsearch&theme=light" />
+  <img src="https://skillicons.dev/icons?i=py,fastapi,ts,nodejs,postgres&theme=light" />
 </a>
 <br>
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=docker,git,github,sentry&theme=light" />
+  <img src="https://skillicons.dev/icons?i=docker,git,github&theme=light" />
 </a>
