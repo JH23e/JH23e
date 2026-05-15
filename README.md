@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=KIMJIHO%20&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=KIM-JIHO%20&fontSize=90)
 
 <br/>
 
